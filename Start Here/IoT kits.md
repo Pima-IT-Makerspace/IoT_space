@@ -1,8 +1,8 @@
 # List of various IoT kits
 
-This document will contain the list of IoT kits that we have utilized or intend to utilize. Documentation on a specific kit may be on a separate page.
+This document will contain the list of IoT kits that we intend to use. Documentation on a specific kit may be on a separate page.
 
-## Iot Kits
+## IoT Kits
 
 [Keyestudio main page](https://wiki.keyestudio.com/Main_Page)
 
