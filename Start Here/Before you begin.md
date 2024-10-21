@@ -1,7 +1,9 @@
+# Before you begin
+
 Below are some of my thoughts as I worked through some of the projects in the kits.  I hope that they’ll help you avoid some of the headaches I ran into in trying to put them together.
 
 
-There are two kits available to work with.  [SunFounder]{https://docs.sunfounder.com/projects/kepler-kit/en/latest/index.html} and [KeyeStudio]{https://wiki.keyestudio.com/KS0361(KS0365)_keyestudio_37_in_1_Starter_Kit_for_BBC_micro:bit}.  These links take you to the provided projects for their respective development kit.
+There are two kits available to work with.  [SunFounder](https://docs.sunfounder.com/projects/kepler-kit/en/latest/index.html) and [KeyeStudio](https://wiki.keyestudio.com/KS0361(KS0365)_keyestudio_37_in_1_Starter_Kit_for_BBC_micro:bit).  These links take you to the provided projects for their respective development kit.
 
 
 The provided breadboards might not be a 1:1 match for what’s on the docs/walkthroughs.  I’m not sure if parts might have been swapped since the making of the diagrams but it’s pretty confusing when you just start learning!  
